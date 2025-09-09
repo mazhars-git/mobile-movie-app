@@ -1,8 +1,3 @@
-//api access token
-// eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NDU2ZjgxM2RhNzU1OGMwZDBkZGI3ODhkMjRjZDZmNSIsIm5iZiI6MTc1NzMzNzcyNy43MDUsInN1YiI6IjY4YmVkODdmYWQzZmMwNTNiNDliYzU0ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.wSELTeRLUhzzdezyHoL1D1tSK7NviAezIRepcwn2n4w
-
-// api key: 5456f813da7558c0d0ddb788d24cd6f5
-
 export const TMDB_CONFIG = {
   BASE_URL: "https://api.themoviedb.org/3",
   API_KEY: process.env.EXPO_PUBLIC_MOVIE_API_KEY,
